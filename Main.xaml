@@ -64,7 +64,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: Frontend - Pöntinen - YouTube" sap:VirtualizedContainerService.HintSize="434,587" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="ed4ecafa-4377-487f-93f3-83597c3543be" Version="V1">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Open browser" sap:VirtualizedContainerService.HintSize="434,587" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="ed4ecafa-4377-487f-93f3-83597c3543be" Version="V1">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
